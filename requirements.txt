@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.4
+lightgbm
+xgboost>=2.0
+catboost
+kaggle

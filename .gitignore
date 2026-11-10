@@ -1,0 +1,18 @@
+# data and outputs (too large for GitHub / Kaggle data)
+data/
+data_orig/
+preds/
+models/
+*.pkl
+*.csv
+*.zip
+*.npy
+
+# environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/
+
+# secrets
+kaggle.json
