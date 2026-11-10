@@ -15,7 +15,7 @@ The task is to predict the probability that a card transaction is fraudulent. Su
 | **XGBoost (xgbT)** | raw + original-data lookups + in-fold target encoding | **0.94740** |
 | **Rank blend (all four)** | — | see `fraud_blend.py` output |
 
-Public leaderboard: _add your score here_
+Public leaderboard: 0.94843
 
 ## Data
 
